@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 1px;
+}
+
+body {
+  background: linear-gradient(#87CEFA, #0000FF	);
+   margin: 0px;
+   padding: 1px;
+}
+
+
+.cabecalho { 
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 3px;
+}
+
+.box1 { 
+  background-image: url("Fundo1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 25px;  
+  color: white;
+  opacity : 0.79; 
+}
+.box2 { 
+
+  font-size: 25px; 
+}
+
+.produtos { 
+ font-size: 25px;
+ display:flex;
+ justify-content: center;
+ }
+
+.box3 { 
+  background-image: url("Fundo2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size:25px;  
+  color: #000000 ;
+  opacity : 0.79; 
+} 
+
+.cabecalho2 { 
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 3px;
+  
+} 
+
